@@ -32,22 +32,15 @@ Cheap - core parts cost < $10 US Dollars
 
 * Whiteboard or Acrylic Sheet and Dry Erase Marker: https://www.ebay.com/itm/16-24-35-47-Aluminum-Frame-Magnetic-Whiteboard-Dry-Erase-w-Board-Marker-Pen/311936582732?hash=item48a0de844c:m:m-E-ZRTFjVYbyOAs701hznw&frcectupt=true
 
+* Arduino IDE: https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-downloading-and-installing/
 
 ## 2. Install the Drivers & Software
 Unzip the files.
 
-![](unzip1.gif)
-![](unzip2.gif)
-
 Install the CH340 drivers.
-
-![](driver1.gif)
-![](driver2.gif)
 
 ## 3. Install Arduino Script
 Open up Arduino IDE, select your board type, and flash the .ino file to the board
-
-![](burn.gif)
 
 ## 4. Get a X.AI developer account and buy Grok API Tokens
 

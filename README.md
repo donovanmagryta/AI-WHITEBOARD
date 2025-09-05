@@ -29,7 +29,7 @@ Cheap - core parts cost < $10 US Dollars
 * Whiteboard or Acrylic Sheet and Dry Erase Marker: https://www.ebay.com/itm/16-24-35-47-Aluminum-Frame-Magnetic-Whiteboard-Dry-Erase-w-Board-Marker-Pen/311936582732?hash=item48a0de844c:m:m-E-ZRTFjVYbyOAs701hznw&frcectupt=true
 
 
-## 3. Install the Drivers & Software
+## 2. Install the Drivers & Software
 Unzip the files.
 
 ![](unzip1.gif)
@@ -40,14 +40,14 @@ Install the CH340 drivers.
 ![](driver1.gif)
 ![](driver2.gif)
 
-## 4. Install Arduino Script
+## 3. Install Arduino Script
 Open up Arduino IDE, select your board type, and flash the .ino file to the board
 
 ![](burn.gif)
 
-## 5. Get a X.AI developer account and buy Grok API Tokens
+## 4. Get a X.AI developer account and buy Grok API Tokens
 
-## 6. Solder up your device
+## 5. Solder up your device
 Strip wire tips
 
 ![](wire1.jpg)
@@ -75,7 +75,7 @@ Wrap individual connections in electrical tape to insulate and prevent a short c
 
 **Most Addressable LED strips have two additional power wires for convenience**
 
-## 7. Train the Device
+## 6. Train the Device
 The gadget broadcasts a WiFi captive portal you can connect to. type in 192.168.4.1 into a web browser after connecting, and paste in your WiFi network info, API key, and your desired prompts. 
 
 

@@ -1,5 +1,9 @@
 # AI-WHITEBOARD
 Enhanced smart whiteboard adding AI intelligence
+
+[![YouTube Demo](https://img.youtube.com/vi/_CYAwQl4qGs/0.jpg)](https://www.youtube.com/shorts/_CYAwQl4qGs)
+
+
 # IoT Whiteboard
 ESP8266 based LED strip display of Yes/No API data.
 
@@ -69,7 +73,7 @@ Then tin with solder then fuse together.
 ![](solder2.jpg)
 ![](solder3.jpg)
 
-Wrap individual connections in electrical tape to insulate and prevent a short circuit.
+Wrap individual connections in electrical tape or heat shrink tubing to insulate and prevent a short circuit.
 
 ![](tape.jpg)
 

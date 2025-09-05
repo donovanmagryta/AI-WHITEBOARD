@@ -18,7 +18,7 @@ Cheap - core parts cost < $10 US Dollars
 
 ![](out.jpg)
 
-# Tutorial:
+# High-level (Not detailed) Tutorial:
 ## 1. Prerequisites:
 * Wemos D1 Mini - https://www.banggood.com/custlink/GvvK5E8B0P
 

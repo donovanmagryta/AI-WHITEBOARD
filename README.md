@@ -19,7 +19,7 @@ Cheap - core parts cost < $10 US Dollars
 ![](out.jpg)
 
 # Tutorial:
-## 1. Get Parts:
+## 1. Prerequisites:
 * Wemos D1 Mini - https://www.banggood.com/custlink/GvvK5E8B0P
 
 * WS2812B Addressable LED Strip (You must cut down to 60 LEDs with scissors) - https://www.banggood.com/custlink/3GmmFR9ee8
@@ -34,13 +34,15 @@ Cheap - core parts cost < $10 US Dollars
 
 * Arduino IDE: https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-downloading-and-installing/
 
+* Grok AI prepaid API service: https://x.ai/api
+
 ## 2. Install the Drivers & Software
 Unzip the files.
 
 Install the CH340 drivers.
 
 ## 3. Install Arduino Script
-Open up Arduino IDE, select your board type, and flash the .ino file to the board
+Open up Arduino IDE, select your board type, and flash the .ino script file to the board
 
 ## 4. Get a X.AI developer account and buy Grok API Tokens
 
